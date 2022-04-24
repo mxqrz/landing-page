@@ -3,6 +3,8 @@
     margin: 0;
     padding: 0;
     font-family: Roboto;
+    cursor: default;
+    box-sizing: border-box;
 }
 
 .hero-section
@@ -44,6 +46,14 @@
 {
     color: white;
     text-decoration: none;
+
+    transition-duration: 0.25s;
+    transition-timing-function: ease-in;
+}
+
+.nav-bar nav ul li a:hover
+{
+    color: rgb(189, 189, 189);
 }
 
 .front-page
