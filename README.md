@@ -2,4 +2,4 @@
 
 my first landing page
 <br>
-https://grimflame.github.io/landing-page
+https://mxqrz.github.io/landing-page
